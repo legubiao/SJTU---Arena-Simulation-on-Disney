@@ -1,0 +1,84 @@
+[RESOURCES]
+E_a Seats
+A_b Seats
+E_b Seats
+C_a Seats
+B_b Seats
+C_c Seats
+B_a Seats
+A_a Seats
+A_c Seats
+D_b Seats
+D_a Seats
+[VARIABLES]
+Back to Area E.NumberIn
+Back to Area D.NumberIn
+Back to Area C.NumberIn
+Back to Area B.NumberIn
+Back to Area A.NumberIn
+D_a.NumberOut
+Visitor EXIT.NumberOut
+HP still enough? E.NumberOut True
+HP still enough? D.NumberOut True
+HP still enough? C.NumberOut True
+HP still enough? B.NumberOut True
+HP still enough? A.NumberOut True
+Pre_Warning_E.NumberOut False
+HP still enough? E.NumberOut False
+HP still enough? D.NumberOut False
+HP still enough? C.NumberOut False
+HP still enough? B.NumberOut False
+HP still enough? A.NumberOut False
+Group Size
+A_c.NumberOut
+A_a.NumberOut
+Pre_Warning_A.NumberOut True
+C_b.NumberOut
+From E to Next Area.NumberOut True
+From B to Next Area.NumberOut True
+D_b.NumberIn
+From E to Next Area.NumberOut False
+P_D
+From B to Next Area.NumberOut False
+P_E
+P_B
+P_C
+A_b.NumberIn
+P_A
+E_a.NumberIn
+E_a.NumberOut
+C_c.NumberIn
+A_c.NumberIn
+Pre_Warning_E.NumberOut True
+Pre_Warning_B.NumberOut True
+Pre_Warning_C.NumberOut True
+C_c.NumberOut
+D_b.NumberOut
+Pre_Warning_D.NumberOut False
+B_b.NumberIn
+E_b.NumberOut
+B_a.NumberOut
+D_a.NumberIn
+Pre_Warning_A.NumberOut False
+B_b.NumberOut
+Pre_Warning_B.NumberOut False
+Pre_Warning_C.NumberOut False
+E_b.NumberIn
+L_B
+L_C
+L_A
+L_D
+L_E
+Create Visitor.NumberOut
+Pre_Warning_D.NumberOut True
+A_a.NumberIn
+A_b.NumberOut
+C_b.NumberIn
+B_a.NumberIn
+C_a.NumberIn
+C_a.NumberOut
+Back to Area E.NumberOut
+Back to Area D.NumberOut
+Back to Area C.NumberOut
+Back to Area B.NumberOut
+Back to Area A.NumberOut
